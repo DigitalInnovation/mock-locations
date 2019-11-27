@@ -1,0 +1,7 @@
+{
+    "points": [
+        { "latitude": 50.1, "longitude": 0.1, "name": "one", "interval": 10 },
+        { "latitude": 50.2, "longitude": 0.2, "name": "two", "interval": 10 },
+        { "latitude": 50.3, "longitude": 0.3, "name": "three", "interval": 10 }
+    ]
+}
