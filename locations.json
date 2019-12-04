@@ -1,7 +1,56 @@
-{
-    "points": [
-        { "latitude": 50.1, "longitude": 0.1, "name": "one", "interval": 10 },
-        { "latitude": 50.2, "longitude": 0.2, "name": "two", "interval": 10 },
-        { "latitude": 50.3, "longitude": 0.3, "name": "three", "interval": 10 }
-    ]
-}
+[
+    {
+      "id": 1,
+      "coordinates": {
+        "latitude": 51.542467,
+        "longitude": -0.005046
+      },
+      "name": "Stratford",
+      "interval": 10
+    },
+    {
+      "id": 2,
+      "coordinates": {
+        "latitude": 51.502757,
+        "longitude": -0.017721
+      },
+      "name": "Canary Wharf",
+      "interval": 10
+    },
+    {
+      "id": 3,
+      "coordinates": {
+        "latitude": 51.547109,
+        "longitude": -0.191652
+      },
+      "name": "West Hampstead",
+      "interval": 10
+    },
+    {
+      "id": 4,
+      "coordinates": {
+        "latitude": 51.506999,
+        "longitude": -0.142939
+      },
+      "name": "Green Park",
+      "interval": 10
+    },
+    {
+      "coordinates": {
+        "latitude": 51.508813,
+        "longitude": -0.199803
+      },
+      "name": "Notting Hill Gate",
+      "interval": 10,
+      "id": 5
+    },
+    {
+      "coordinates": {
+        "latitude": 51.537891,
+        "longitude": -0.142009
+      },
+      "name": "Camden Town",
+      "interval": 10,
+      "id": 6
+    }
+  ]
